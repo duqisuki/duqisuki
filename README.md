@@ -62,6 +62,20 @@ One-line PowerShell install.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [🚪 FailRooms Co-op](https://github.com/duqisuki/failrooms-coop)
+Online two-player co-op for the single-player game **FailRooms**. A UE4SS Lua mod syncs the partner,
+maps, triggers, interactions and cutscenes, and a C# launcher handles Steam lobbies, invites and
+relays traffic over Steam networking: no IP or VPN needed.
+
+`Lua` `UE4SS` `C#` `Steamworks networking`
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 I also build games on [s&box](https://sbox.game) (Source 2, C#): co-op, survival and sandbox prototypes.
